@@ -32,3 +32,6 @@ O:
 - Construir un pipeline de limpieza reproducible
 - Analizar comportamientos, distribuciones y outliers
 - Generar insights para el equipo de Estrategia e Integración de EverPeak
+
+Google Colab 
+https://colab.research.google.com/drive/1_3spf8pksENPsY0wnyhVr1eX1bWOMynH?usp=sharing
